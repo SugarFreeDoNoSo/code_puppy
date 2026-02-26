@@ -34,3 +34,4 @@ main.bin
 code_puppy/bundled_skills/
 
 .json
+.github/instructions/wmt-copilot.instructions.md
